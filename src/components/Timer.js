@@ -80,14 +80,14 @@ export default function Timer() {
     if(timer===0){
       console.log(window.location.href)
 
-      if (window.location.href === "http://quizstar.auzrewebsites.net/#/quiz-page"){
+      if (window.location.href === "http://quizstar.azurewebsites.net/#/quiz-page"){
 
-          window.location.href = "http://quizstar.auzrewebsites.net/#/timerpopup";
+          window.location.href = "http://quizstar.azurewebsites.net/#/timerpopup";
 
       }else{
 
 
-          window.location.href = "http://quizstar.auzrewebsites.net/#/quiz-page";
+          window.location.href = "http://quizstar.azurewebsites.net/#/quiz-page";
       } 
       
 
