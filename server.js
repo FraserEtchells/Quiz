@@ -1,7 +1,6 @@
 //Quiz Server Lobby
 //Ross Mitchell and Melvin Abraham
 
-// const { Console } = require('console');
 // const path = require('path');
 // var app = require('express')();
 // var http = require('http').createServer(app);
